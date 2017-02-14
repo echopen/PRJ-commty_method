@@ -121,7 +121,7 @@ Francis arrived
 
 Structure proposed by @bivi (left) and @emilie (right)
 
-![](/images/tableau.jpg)
+![](/tableau.jpg)
 
 
 * @francis: key role of maintainers, especially through the “rapporteur” for the group.
